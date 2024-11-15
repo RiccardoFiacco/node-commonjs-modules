@@ -1,10 +1,7 @@
 function hobbies (hobbyOne, hobbyTwo, hobbyThree){
-    let obj = {
-        firstHobby: hobbyOne,
-        secondHobby: hobbyTwo,
-        thirdHobby: hobbyThree
-    }
-
+    let obj ={
+        hobbies:[hobbyOne, hobbyTwo, hobbyThree]
+    };
     return obj
 }
 
