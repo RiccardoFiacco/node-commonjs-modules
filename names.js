@@ -6,3 +6,5 @@ function nameSur (name, surname){
 
     return obj
 }
+
+module.exports = {nameSur}
